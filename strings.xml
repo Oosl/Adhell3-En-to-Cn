@@ -90,6 +90,12 @@
         \n因此，如果操作后元件仍然禁用，请在设置中卸载 Adhell 来恢复。
         \n\n确定要启用所有应用的元件吗？
     </string>
+    <string name="dialog_system_app_components_title">已显示系统应用</string>
+    <string name="dialog_system_app_components_info">
+        禁用系统应用的 权限、服务、接收器 时请小心。
+        \nSamsung Knox 并没有提供API 来清除禁用。
+        \n如果发生错误, 你只能通过恢复出厂设置来恢复。
+    </string>
     <string name="dialog_toggle_title">自定义所有应用 DNS</string>
     <string name="dialog_toggle_info">
         您真的想为所有程序应用或移除自定义 DNS 吗？
@@ -166,6 +172,12 @@
     <string name="settings_fragment_title">设置</string>
     <string name="enable_apps_dialog_title">启用所有应用</string>
     <string name="enable_apps_dialog_text">确定要启用所有应用？</string>
+    <string name="delete_provider_dialog_title">删除程序</string>
+    <string name="delete_provider_dialog_text">确定删除此程序？</string>
+    <string name="delete_domain_dialog_title">关闭管理员</string>
+    <string name="delete_domain_dialog_text">确定关闭管理员？</string>
+    <string name="delete_domain_firewall_dialog_title">删除域名规则</string>
+    <string name="delete_domain_firewall_dialog_text">确定删除域名规则？</string>
     <string name="backup_database_dialog_title">备份配置</string>
     <string name="backup_database_dialog_text">您确定要用目前的设置覆盖已存在的配置备份吗？</string>
     <string name="restore_database_dialog_title">还原配置</string>
@@ -191,6 +203,8 @@
     <string name="dialog_empty_password">密码不可为空！</string>
     <string name="set_password_title">使用密码保护 Adhell3</string>
     <string name="set_password_summary">如果你忘记密码，请重新安装 Adhell3。</string>
+    <string name="set_night_mode">夜间模式</string>
+    <string name="set_night_mode_summary">应用Adhell3的夜间主题</string>
     <string name="create_logcat_title">创建 logcat</string>
     <string name="create_logcat_summary">在内部存储上创建 logcat 进行调试。</string>
     <string name="logcat_created">已创建 Logcat \'%1$s\'</string>

@@ -158,6 +158,8 @@
         \n三星 Knox 没有提供 API 能列出禁用的接收器。
         \n因此，如果禁用的接收器没出现在下面，则需要重新安装应用。
     </string>
+    <string name="backup">备份</string>
+    <string name="uninstall">卸载</string>
     <string name="backup_database">备份配置</string>
     <string name="backup_database_summary">将当前所有设置备份到内部存储的备份文件中。</string>
     <string name="restore_database">还原配置</string>

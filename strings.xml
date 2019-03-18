@@ -213,4 +213,19 @@
     <string name="logcat_not_created">无法创建 logcat。</string>
     <string name="change_key_title">变更许可证</string>
     <string name="change_key_summary">弹出激活窗口以变更许可证。</string>
+    <string name="about_title">关于</string>
+    <string name="about_summary">关于 adhell3</string>
+    <string name="about_content">Adhell3 仅仅是一个使用三星 Knox SDK APIs 的应用.
+        \n
+        \n编译安装包脚本:
+        \n<a href="https://gitlab.com/fusionjack/adhell3-scripts">https://gitlab.com/fusionjack/adhell3-scripts</a>
+        \n源码:
+        \n<a href="https://gitlab.com/fusionjack/adhell3">https://gitlab.com/fusionjack/adhell3</a>
+        \nDiscord:
+        \n<a href="https://discord.gg/hfreZum">https://discord.gg/hfreZum</a>
+        \nReddit:
+        \n<a href="https://www.reddit.com/r/Adhell/">https://www.reddit.com/r/Adhell</a>
+        \n
+        \nAdhell3 使用 <a href="http://creativecommons.org/licenses/by-nc/4.0/">署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可.</a>
+    </string>
 </resources>
